@@ -6,6 +6,7 @@ Created with CodeSandbox
 # router
 
 # theme
+- あるアプリケーション内のすべてのコンポーネントに適用されるスタイルのことを指します
 
 # App.tsx
 
