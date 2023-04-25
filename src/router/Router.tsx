@@ -6,6 +6,9 @@ import { homeRoutes } from "./HomeRoutes";
 import { Page404 } from "../components/pages/Page404";
 import { HeaderLayout } from "../components/templates/HeaderLayout";
 
+// VFC = Reactの関数コンポーネントを定義するための型エイリアスです。
+// VFCを使用することで、propsが必要ないコンポーネントをより簡潔に定義できます。
+
 export const Router: VFC = memo(() => {
   return (
     <Switch>
