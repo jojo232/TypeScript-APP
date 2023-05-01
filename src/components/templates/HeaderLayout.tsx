@@ -22,7 +22,6 @@ export const HeaderLayout: VFC<Props> = memo((props) => {
     </>
   );
 });
-
 // このコードは、Reactの関数コンポーネント HeaderLayout を定義しています。 
 // HeaderLayout は、Propsとして children を受け取り、Header コンポーネントを先頭に置いて、その下に children を表示する役割を持っています。
 // また、VFC<Props> の形式で関数コンポーネントの型を定義しています。 
