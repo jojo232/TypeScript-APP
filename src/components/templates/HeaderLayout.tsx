@@ -27,3 +27,8 @@ export const HeaderLayout: VFC<Props> = memo((props) => {
 // また、VFC<Props> の形式で関数コンポーネントの型を定義しています。 
 // VFC は、"Void Function Component" の略で、戻り値がなく、Propsがある関数コンポーネントの型を表します。
 // この場合、 Props の型を指定しています。 Props の型は、children プロパティを持つ ReactNode 型のオブジェクトです。
+
+
+
+
+// Propsとは、Reactコンポーネントに渡されるプロパティのことを指します。
