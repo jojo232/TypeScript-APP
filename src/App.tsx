@@ -20,6 +20,9 @@ export default function App() {
     </ChakraProvider>
   );
 }
+
+// グローバルなスタイルとは、ベースとなる背景色など
+
 // テーマを渡してあげてtheme={theme}
 
 // BrowserRouterは、
